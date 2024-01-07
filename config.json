@@ -1,0 +1,195 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/solodroid-guide-privacy-policy",
+	  "email_feedback_and_report": "yourmail@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "0",
+      "admob_interstitial_unit_id": "0",
+      "admob_native_unit_id": "0",
+      "admob_app_open_unit_id": "0",
+      "ad_manager_banner_unit_id": "0",
+      "ad_manager_interstitial_unit_id": "0",
+      "ad_manager_native_unit_id": "0",
+      "ad_manager_app_open_unit_id": "0",
+      "fan_banner_unit_id": "0",
+      "fan_interstitial_unit_id": "0",
+      "fan_native_unit_id": "0",
+      "startapp_app_id": "0",
+      "unity_game_id": "0",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 8,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": false,
+      "show_banner_ad_post_details": false,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tips",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danapintekguide4%2Ficon.png?alt=media&token=823da55a-82a8-444f-ad8d-3985bee8459b"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Tips",
+      "title": "Apa itu pinjaman online?",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danapintekguide4%2Ficon.png?alt=media&token=823da55a-82a8-444f-ad8d-3985bee8459b",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danapintekguide4%2Fapa%20itu%20pinjaman%20online.html?alt=media&token=950fe39d-744c-4f1c-83b4-38cf59b7191e",
+      "video": ""
+    },
+	{
+      "id": 2,
+      "category": "Tips",
+      "title": "Jenis-jenis pinjaman online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danapintekguide4%2Ficon.png?alt=media&token=823da55a-82a8-444f-ad8d-3985bee8459b",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danapintekguide4%2Fjenis-jenis%20pinjaman%20online.html?alt=media&token=d690efec-8443-4800-ba0d-6042712829ce",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Tips",
+      "title": "Tenor pinjaman online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danapintekguide4%2Ficon.png?alt=media&token=823da55a-82a8-444f-ad8d-3985bee8459b",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danapintekguide4%2FTenor%20pinjaman%20online.html?alt=media&token=1eaec354-ccdf-493c-97a8-1a0e98836af2",
+      "video": ""
+    },
+    {
+      "id": 4,
+      "category": "Tips",
+      "title": "Manfaat pinjaman online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danapintekguide4%2Ficon.png?alt=media&token=823da55a-82a8-444f-ad8d-3985bee8459b",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danapintekguide4%2FManfaat%20pinjaman%20online.html?alt=media&token=af7fa362-f2d8-477c-a718-bc25c4fc4f41",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "Tips",
+      "title": "Hati-hati pinjaman online ilegal",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danapintekguide4%2Ficon.png?alt=media&token=823da55a-82a8-444f-ad8d-3985bee8459b",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danapintekguide4%2FHati-hati%20pinjaman%20online%20ilegal.html?alt=media&token=c56b6ce1-d06c-4b65-809b-66e295a22d22",
+      "video": ""
+    },
+    {
+      "id": 6,
+      "category": "Tips",
+      "title": "Memilih Pinjaman Online Legal",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danapintekguide4%2Ficon.png?alt=media&token=823da55a-82a8-444f-ad8d-3985bee8459b",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danapintekguide4%2FMemilih%20Pinjaman%20Online%20Legal.html?alt=media&token=fa906a41-4f13-47c8-b07d-3db4e8ed3e67",
+      "video": ""
+    },
+	{
+      "id": 7,
+      "category": "Tips",
+      "title": "Syarat Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danapintekguide4%2Ficon.png?alt=media&token=823da55a-82a8-444f-ad8d-3985bee8459b",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danapintekguide4%2FSyarat%20Pinjaman%20Online.html?alt=media&token=f0103bdb-372b-4be1-ad06-8bb6893b0438",
+      "video": ""
+    },
+    {
+      "id": 8,
+      "category": "Tips",
+      "title": "Memilih pinjaman online terbaik",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danapintekguide4%2Ficon.png?alt=media&token=823da55a-82a8-444f-ad8d-3985bee8459b",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danapintekguide4%2FMemilih%20pinjaman%20online%20terbaik.html?alt=media&token=1f60e6fc-fcfe-4d03-86f9-3a2cb72a10ff",
+      "video": ""
+    },
+    {
+      "id": 9,
+      "category": "Tips",
+      "title": "Tips Pinjaman Online Cepat Cair",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danapintekguide4%2Ficon.png?alt=media&token=823da55a-82a8-444f-ad8d-3985bee8459b",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danapintekguide4%2FTips%20Pinjaman%20Online%20Cepat%20cair.html?alt=media&token=3a524969-0c8a-4b31-b340-e78ef74da4da",
+      "video": ""
+    },
+    {
+      "id": 10,
+      "category": "Tips",
+      "title": "Solusi Pinjaman Online yang Gagal",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danapintekguide4%2Ficon.png?alt=media&token=823da55a-82a8-444f-ad8d-3985bee8459b",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danapintekguide4%2FSolusi%20Pinjaman%20Online%20yang%20Gagal.html?alt=media&token=246e2db7-16ed-4e82-b66d-23ff3de36349",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 3,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 4,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 5,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 6,
+      "title": "",
+      "image": "",
+      "url": ""
+    }
+  ]
+}
